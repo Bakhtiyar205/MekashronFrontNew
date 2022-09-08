@@ -1,0 +1,73 @@
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\Mekashron.exe
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\css\pages\_home.scss
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\css\style.css
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\css\style.css.map
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\css\style.scss
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\css\variables\_variables.scss
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\fonts\Roboto-Black.ttf
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\fonts\Roboto-BlackItalic.ttf
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\fonts\Roboto-Bold.ttf
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\fonts\Roboto-BoldItalic.ttf
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\fonts\Roboto-Italic.ttf
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\fonts\Roboto-Light.ttf
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\fonts\Roboto-LightItalic.ttf
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\fonts\Roboto-Medium.ttf
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\fonts\Roboto-MediumItalic.ttf
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\fonts\Roboto-Regular.ttf
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\fonts\Roboto-Thin.ttf
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\fonts\Roboto-ThinItalic.ttf
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\120_70 (7) 1.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\alarm-blue.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\alarm.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\avatar.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\banner.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\Bitcoin-dark.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\comodo 1.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\Country.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\ctv 1.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\DinersClub-dark.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\Ellipse 17.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\facebook-messenger.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\facebook-messengerf.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\facebook.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\facebookf.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\filled.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\Germany.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\Group 285.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\Group.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\hsbc 1.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\icon.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\litecoin 1.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\logo.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\Maestro-dark.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\MasterCard-dark.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\mega-millions-lo.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\mega-millions-log.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\mega-millions-logo-online.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\mega-millions-logo.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\menu.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\photo-2-11 1.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\qiwi 1.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\Skrill-dark.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\star.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\twitter.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\twitterf.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\Untitled.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\Vector.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\Visa-dark.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\whatsapp.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\whatsappf.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\winner 1.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\Ресурс 1 1.png
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\Ресурс 1 1.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\Ресурс 1 2.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\img\Ресурс 1 5.svg
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\wwwroot\assets\index.js
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\Mekashron.dll
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\Mekashron.deps.json
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\Mekashron.runtimeconfig.json
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\Mekashron.pdb
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\Mekashron.Views.dll
+C:\Users\Baxtiyar\Desktop\Mekashron\MekashronFront\Mekashron\Mekashron\obj\Release\net5.0\PubTmp\Out\Mekashron.Views.pdb

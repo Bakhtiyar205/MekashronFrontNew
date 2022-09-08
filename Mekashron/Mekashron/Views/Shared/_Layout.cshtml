@@ -1,0 +1,231 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Cache-Control" content="public">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/assets/css/style.css?V2">
+    <title>Mekashron</title>
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <!-- Header Top -->
+            <div class="header-top">
+                <div class="d-block d-sm-none mobile-navbar">
+                    <div class="mobile-header-top">
+                        <a href="#" id="hamburger-menu">
+                            <img src="~/assets/img/menu.svg" class="img-fluid" alt="menu">
+                        </a>
+
+                        <a href="#" class="header-top--logo">
+                            <img src="~/assets/img/logo.svg" class="img-fluid" alt="logo">
+                        </a>
+
+                        <a href="#">
+                            <img src="~/assets/img/avatar.svg" class="img-fluid" alt="avatar">
+                        </a>
+                    </div>
+                    <!-- Mobile Navbar Menu -->
+                    <div class="mobile">
+                        <a href="#">Link</a>
+                        <br/>
+                        <a href="#">Link</a>
+                        <br/>
+                        <a href="#">Link</a>
+                        <br/>
+                        <a href="#">Link</a>
+                        <br/>
+                        <a href="#">Link</a>
+                    </div>
+                </div>
+                <!-- Wide Screen Logo -->
+                <a href="#" class="header-top--logo d-none d-sm-block wide-screen-logo">
+                    <img src="~/assets/img/logo.svg" class="img-fluid" alt="logo">
+                </a>
+                <!-- Login -->
+                <div class="header-top--account">
+                    <span class="header-top--paragraph">
+                        Welcome <span class="font-bold">Roma - </span><a class="header-top--logout" href="#">Logout</a>
+                    </span>
+                    <span class="header-top--paragraph">
+                        Your balance: <span class="font-bold">P 0,00</span>
+                        <span class="header-top--paragraph"> </span>
+                    </span>
+                </div>
+                <div class="header-top--action d-none d-md-block">
+                    <div class="social-media">
+                        <a href="#" class="social-media--item">
+                            <img src="~/assets/img/facebook.svg" alt="">
+                        </a>
+                        <a href="#" class="social-media--item">
+                            <img src="~/assets/img/twitter.svg" alt="">
+                        </a>
+                        <a href="#" class="social-media--item">
+                            <img src="~/assets/img/facebook-messenger.svg" alt="">
+                        </a>
+                        <a href="#" class="social-media--item">
+                            <img src="~/assets/img/whatsapp.svg" alt="">
+                        </a>
+                    </div>
+                    <div class="language">
+                        <span>
+                            <img src="~/assets/img/Group.svg" class="img-fluid" alt="">
+                        </span>
+                        <span>English</span>
+                        <span><img src="~/assets/img/Vector.svg" class="img-fluid" alt=""></span>
+                        <div class="language--toggle">
+                            <a href="#">Link</a>
+                            <a href="#">Link</a>
+                            <a href="#">Link</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Header Main -->
+            <div class="header-main d-sm-flex d-none">
+                <div class="header-main--navigation">
+                    <a href="#">Home</a>
+                    |
+                    <a href="#">Play All Lottery</a>
+                    |
+                    <a href="#">Lottery Groups</a>
+                    |
+                    <a href="#">Promotions</a>
+                </div>
+                <a href="#" class="header-main--action">My Account</a>
+            </div>
+        </div>
+    </header>
+        <main class="main">
+            @RenderBody()
+        </main>
+
+     <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-img">
+                <img src="~/assets/img/Untitled.svg" alt="Untitled">
+            </div>
+            <div class="footer-text-box">
+                <div class="footer-text">
+                    <div class="social">
+                        <span>
+                            <img src="~/assets/img/whatsappf.svg" class="img-fluid" alt="">
+                            <span>
+                                <span class="font-family font-light-bold">Live chat by WhatsApp</span>
+                                <span class="font-family font-normal">Customer Service</span>
+                            </span>
+                        </span>
+                        <span class="d-none d-md-flex">
+                            <img src="~/assets/img/facebookf.svg" class="img-fluid" alt="facebook">
+                            <img src="~/assets/img/twitterf.svg" class="img-fluid" alt="twitter">
+                            <img src="~/assets/img/facebook-messengerf.svg" class="img-fluid" alt="facebook-messenger">
+                        </span>
+                    </div>
+                    <!-- Footer Nav -->
+                    <div class="footer-nav">
+                        <div class="footer-col">
+                            <span class="footer-col--header font-bold">
+                                USEFUL LINKS
+                            </span>
+                            <span class="footer-col--main main-col-first">
+                                <span>
+                                    <span>Lottery Results & Winners</span>
+                                    <span>Lottery Promotions</span>
+                                    <span>About Us</span>
+                                    <span>Contact Us</span>
+                                    <span>Terms & Conditions</span>
+                                </span>
+                                <span>
+                                    <span>Security</span>
+                                    <span>Privacy Policy</span>
+                                    <span>Acceptable Use Policy</span>
+                                    <span>Website Use Policy</span>
+                                    <span class="font-bold">Affiliate program</span>
+                                </span>
+
+                            </span>
+                        </div>
+                        <div class="footer-col">
+                            <span class="footer-col--header font-bold">
+                                SMARTWINNERS
+                            </span>
+                            <span class="footer-col--main main-col-second">
+                                <span>
+                                    The trade name SmartWinners and all content on this website is a copyright of
+                                    SmartWinners Limited. All rights reserved. We are an independent lottery ticket
+                                    purchasing service. We are not affiliated with nor are we endorsed by any State
+                                    sanctioned lottery organization. We make no claims on our site to be such.
+                                </span>
+                                <span>
+                                    Our registered business address is Unit 6158, PO Box 6945, London, W1A 6US, United
+                                    Kingdom.
+                                </span>
+                            </span>
+                        </div>
+                        <div class="footer-col">
+                            <span class="footer-col--header font-bold col-header-last">
+                                PAYMENT METHODS
+                                <span class="d-xl-none d-block">
+                                    SECURITY & TRUST
+                                </span>
+                            </span>
+                            <span class="footer-col--main col-main-last">
+                                <!-- Payment Card -->
+                                <span class="payment-cards">
+                                    <span>
+                                        <img src="~/assets/img/Visa-dark.svg" class="img-fluid" alt="Visa">
+                                        <img src="~/assets/img/MasterCard-dark.svg" class="img-fluid" alt="Master">
+                                        <img src="~/assets/img/Maestro-dark.svg" class="img-fluid" alt="Maestro">
+                                    </span>
+                                    <span>
+                                        <img src="~/assets/img/DinersClub-dark.svg" 
+                                        class="img-fluid"
+                                        alt="DinersClub-dark">
+                                        <img src="~/assets/img/Skrill-dark.svg" class="img-fluid" alt="Skrill-dark">
+                                        <img src="~/assets/img/Bitcoin-dark.svg" class="img-fluid" alt="Bitcoin-dark">
+                                    </span>
+                                    <span>
+                                        <img src="~/assets/img/qiwi 1.svg" class="img-fluid" alt="qiwi">
+                                        <img src="~/assets/img/hsbc 1.svg" class="img-fluid" alt="hsbc">
+                                        <img src="~/assets/img/litecoin 1.svg" class="img-fluid" alt="litecoin">
+                                    </span>
+                                </span>
+                                <!-- Security & Trust -->
+                                <span class="security-trust-footer">
+                                    <span class="security-trust-tag font-light-bold d-none d-xl-block">
+                                        SECURITY & TRUST
+                                    </span>
+                                    <span class="logos">
+                                        <img src="~/assets/img/ctv 1.svg" alt="ctv">
+                                        <img src="~/assets/img/comodo 1.svg" alt="comodo">
+                                    </span>
+                                    <span class="d-md-none d-flex gap-2">
+                                        <img src="~/assets/img/facebookf.svg" class="img-fluid" alt="facebook">
+                                        <img src="~/assets/img/twitterf.svg" class="img-fluid" alt="twitter">
+                                        <img src="~/assets/img/facebook-messengerf.svg" 
+                                        class="img-fluid"
+                                        alt="facebook-messenger">
+                                    </span>
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"
+        integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="~/assets/index.js"></script>
+</body>
+
+</html>

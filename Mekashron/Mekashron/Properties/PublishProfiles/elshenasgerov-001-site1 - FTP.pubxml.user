@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA3BpbhMZwxUmxQyT7/PNdkAAAAAACAAAAAAAQZgAAAAEAACAAAABgX4geVnuzzNGxEkdPosvlj8+lSMjyDVK7DtGSqAtQ5AAAAAAOgAAAAAIAACAAAAAYEBlfz2AuAgvDKJfIoDwhoeHVrWzxlsFehQsjRrB3kSAAAABrRWaD1gRICNpM4nkffQy38A+KOTFHLy6/iGrME18eN0AAAABJcsmCVJx6Y6ADtcdQDxnwBeTvdPcU14YdOlX2HqQ6xdVxKEOFjE2kAogb+1dbwmAIoUs4G8B9mZhIMZWTYZ8Y</EncryptedPassword>
+    <_PublishTargetUrl>ftp://win5010.site4now.net:21/site1</_PublishTargetUrl>
+    <History>True|2022-09-06T15:52:47.9317260Z;False|2022-09-06T19:51:42.0083284+04:00;False|2022-09-06T19:50:47.7313895+04:00;True|2022-09-06T17:03:14.8308247+04:00;True|2022-09-06T15:52:27.7477217+04:00;False|2022-09-06T15:51:32.2541059+04:00;True|2022-09-06T15:40:48.7065354+04:00;True|2022-09-06T13:40:18.6913720+04:00;False|2022-09-06T13:32:52.0652688+04:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>09/05/2022 11:58:13</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>09/05/2022 13:21:50</publishTime>
+    </File>
+    <File Include="Mekashron.deps.json">
+      <publishTime>09/06/2022 19:52:08</publishTime>
+    </File>
+    <File Include="Mekashron.dll">
+      <publishTime>09/06/2022 19:52:07</publishTime>
+    </File>
+    <File Include="Mekashron.exe">
+      <publishTime>09/06/2022 19:52:07</publishTime>
+    </File>
+    <File Include="Mekashron.pdb">
+      <publishTime>09/06/2022 19:52:07</publishTime>
+    </File>
+    <File Include="Mekashron.runtimeconfig.json">
+      <publishTime>09/05/2022 13:21:53</publishTime>
+    </File>
+    <File Include="Mekashron.Views.dll">
+      <publishTime>09/06/2022 19:52:08</publishTime>
+    </File>
+    <File Include="Mekashron.Views.pdb">
+      <publishTime>09/06/2022 19:52:08</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>09/06/2022 19:52:08</publishTime>
+    </File>
+    <File Include="wwwroot/assets/css/pages/_home.scss">
+      <publishTime>09/06/2022 16:59:58</publishTime>
+    </File>
+    <File Include="wwwroot/assets/css/style.css">
+      <publishTime>09/06/2022 19:48:41</publishTime>
+    </File>
+    <File Include="wwwroot/assets/css/style.css.map">
+      <publishTime>09/06/2022 16:59:58</publishTime>
+    </File>
+    <File Include="wwwroot/assets/css/style.scss">
+      <publishTime>09/05/2022 12:18:24</publishTime>
+    </File>
+    <File Include="wwwroot/assets/css/variables/_variables.scss">
+      <publishTime>09/03/2022 03:20:08</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/Roboto-Black.ttf">
+      <publishTime>01/09/2013 00:00:00</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/Roboto-BlackItalic.ttf">
+      <publishTime>01/09/2013 00:00:00</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/Roboto-Bold.ttf">
+      <publishTime>01/09/2013 00:00:00</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/Roboto-BoldItalic.ttf">
+      <publishTime>01/09/2013 00:00:00</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/Roboto-Italic.ttf">
+      <publishTime>01/09/2013 00:00:00</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/Roboto-Light.ttf">
+      <publishTime>01/09/2013 00:00:00</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/Roboto-LightItalic.ttf">
+      <publishTime>01/09/2013 00:00:00</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/Roboto-Medium.ttf">
+      <publishTime>01/09/2013 00:00:00</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/Roboto-MediumItalic.ttf">
+      <publishTime>01/09/2013 00:00:00</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/Roboto-Regular.ttf">
+      <publishTime>01/09/2013 00:00:00</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/Roboto-Thin.ttf">
+      <publishTime>01/09/2013 00:00:00</publishTime>
+    </File>
+    <File Include="wwwroot/assets/fonts/Roboto-ThinItalic.ttf">
+      <publishTime>01/09/2013 00:00:00</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/120_70 %287%29 1.svg">
+      <publishTime>09/02/2022 18:05:21</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/alarm-blue.svg">
+      <publishTime>09/02/2022 15:21:16</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/alarm.svg">
+      <publishTime>09/02/2022 04:06:08</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/avatar.svg">
+      <publishTime>09/03/2022 14:26:20</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/banner.svg">
+      <publishTime>09/01/2022 20:21:15</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/Bitcoin-dark.svg">
+      <publishTime>09/03/2022 06:11:24</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/comodo 1.svg">
+      <publishTime>09/03/2022 06:46:58</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/Country.svg">
+      <publishTime>09/02/2022 03:17:04</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/ctv 1.svg">
+      <publishTime>09/03/2022 06:46:49</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/DinersClub-dark.svg">
+      <publishTime>09/03/2022 06:11:08</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/Ellipse 17.svg">
+      <publishTime>09/02/2022 02:29:12</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/facebook-messenger.svg">
+      <publishTime>09/01/2022 19:49:24</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/facebook-messengerf.svg">
+      <publishTime>09/03/2022 05:06:10</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/facebook.svg">
+      <publishTime>09/01/2022 19:44:04</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/facebookf.svg">
+      <publishTime>09/03/2022 05:04:42</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/filled.svg">
+      <publishTime>09/01/2022 15:17:18</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/Germany.svg">
+      <publishTime>09/03/2022 03:31:20</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/Group 285.svg">
+      <publishTime>09/02/2022 18:39:08</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/Group.svg">
+      <publishTime>09/01/2022 19:09:42</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/hsbc 1.svg">
+      <publishTime>09/03/2022 06:11:38</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/icon.svg">
+      <publishTime>09/02/2022 01:42:28</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/litecoin 1.svg">
+      <publishTime>09/03/2022 06:11:46</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/logo.svg">
+      <publishTime>09/01/2022 14:44:49</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/Maestro-dark.svg">
+      <publishTime>09/03/2022 06:10:56</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/MasterCard-dark.svg">
+      <publishTime>09/03/2022 06:10:48</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/mega-millions-lo.svg">
+      <publishTime>09/02/2022 02:35:18</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/mega-millions-log.svg">
+      <publishTime>09/02/2022 02:30:34</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/mega-millions-logo-online.svg">
+      <publishTime>09/02/2022 14:22:26</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/mega-millions-logo.svg">
+      <publishTime>09/02/2022 02:30:12</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/menu.svg">
+      <publishTime>09/03/2022 14:08:32</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/photo-2-11 1.svg">
+      <publishTime>09/02/2022 18:26:58</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/qiwi 1.svg">
+      <publishTime>09/03/2022 06:11:31</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/Skrill-dark.svg">
+      <publishTime>09/03/2022 06:11:16</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/star.svg">
+      <publishTime>09/02/2022 15:44:36</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/twitter.svg">
+      <publishTime>09/01/2022 19:48:00</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/twitterf.svg">
+      <publishTime>09/03/2022 05:05:28</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/Untitled.svg">
+      <publishTime>09/03/2022 04:45:45</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/Vector.svg">
+      <publishTime>09/01/2022 19:11:00</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/Visa-dark.svg">
+      <publishTime>09/03/2022 06:10:37</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/whatsapp.svg">
+      <publishTime>09/01/2022 19:50:24</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/whatsappf.svg">
+      <publishTime>09/03/2022 05:02:06</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/winner 1.svg">
+      <publishTime>09/03/2022 03:30:42</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/Ресурс 1 1.png">
+      <publishTime>09/01/2022 20:40:56</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/Ресурс 1 1.svg">
+      <publishTime>09/01/2022 20:41:50</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/Ресурс 1 2.svg">
+      <publishTime>09/02/2022 01:52:40</publishTime>
+    </File>
+    <File Include="wwwroot/assets/img/Ресурс 1 5.svg">
+      <publishTime>09/02/2022 18:31:16</publishTime>
+    </File>
+    <File Include="wwwroot/assets/index.js">
+      <publishTime>09/05/2022 18:19:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
